@@ -1,0 +1,11 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RiderGameControl-0020.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\guips\Documents\Unreal Projects\GEII_Project2\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderGameControl\RiderGameControl.cpp.obj"
+"C:\Users\guips\Documents\Unreal Projects\GEII_Project2\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderGameControl\Default.rc2.res"
+/OUT:"C:\Users\guips\Documents\Unreal Projects\GEII_Project2\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderGameControl\UE4Editor-RiderGameControl-0020.lib"

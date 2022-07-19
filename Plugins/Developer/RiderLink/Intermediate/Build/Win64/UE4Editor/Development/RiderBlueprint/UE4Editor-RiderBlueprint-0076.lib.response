@@ -1,0 +1,11 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RiderBlueprint-0076.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\guips\Documents\Unreal Projects\GEII_Project2\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderBlueprint\Module.RiderBlueprint.cpp.obj"
+"C:\Users\guips\Documents\Unreal Projects\GEII_Project2\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderBlueprint\Default.rc2.res"
+/OUT:"C:\Users\guips\Documents\Unreal Projects\GEII_Project2\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderBlueprint\UE4Editor-RiderBlueprint-0076.lib"
