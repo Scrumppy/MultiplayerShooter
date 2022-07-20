@@ -43,7 +43,7 @@
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
 #define UE_IS_ENGINE_MODULE 0
-#define UE_PROJECT_NAME GEII_PortalProject1
+#define UE_PROJECT_NAME MultiplayerShooter
 #define UE_TARGET_NAME GEII_PortalProjectEditor
 #define ENABLE_LOG_FILE 0
 #define UE_MODULE_NAME "RiderLink"
